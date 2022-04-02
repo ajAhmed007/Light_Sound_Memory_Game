@@ -38,8 +38,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Winning game](file:///Users/ahmedsmac/Desktop/UW/CodePath/Winning_game.gif)
+If you recorded multiple GIFs for all the implemented features, you can add them here
+
+![Winning_game](https://user-images.githubusercontent.com/60489068/161367935-7d86f00a-d82e-40b0-9d4c-12fa919e7f0b.gif)
+
 ![Losing game](file:///Users/ahmedsmac/Desktop/UW/CodePath/Losing_gmae.gif)
 
 
