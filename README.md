@@ -40,7 +40,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here
 
+Winning game:
+
 ![Winning_game](https://user-images.githubusercontent.com/60489068/161367935-7d86f00a-d82e-40b0-9d4c-12fa919e7f0b.gif)
+
+Losing Game:
 
 ![Losing_gmae](https://user-images.githubusercontent.com/60489068/161367961-2ac8a965-4745-42ec-a314-1605a0261f2b.gif)
 
