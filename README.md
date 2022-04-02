@@ -4,7 +4,7 @@
 
 Submitted by: **Ahmed Abdullahi**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/l-s-m-game?path=README.md%3A1%3A0)
 
