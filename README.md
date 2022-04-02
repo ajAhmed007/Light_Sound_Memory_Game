@@ -64,7 +64,7 @@ If I had a few more hours to work on this project, I would spend them by impleme
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1TPY8JZb2h88VJbpNw9MKytSJQyZ7fwLi/view?usp=sharing)
+[My 5-minute Interview Recording]()
 
 ## License
 
