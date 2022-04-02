@@ -68,7 +68,7 @@ If I had a few more hours to work on this project, I would spend them by impleme
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Ahmed Abdullahi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
