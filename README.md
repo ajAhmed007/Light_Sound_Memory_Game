@@ -67,9 +67,6 @@ Some of questions I have about web developement include but are not limited to: 
 
 If I had a few more hours to work on this project, I would spend them by implementing extra features like adding a celebratory screen with confetty and sound when the player wins the game. Also adding images that appear everytime the player presses a botton. I would also add a timer. I want to also figure out a way to have the bottons shuffle to make the game much harder.
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1TPY8JZb2h88VJbpNw9MKytSJQyZ7fwLi/view?usp=sharing)
 
 ## License
 
