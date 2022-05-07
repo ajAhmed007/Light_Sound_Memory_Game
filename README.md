@@ -1,14 +1,12 @@
 # Pre-work - _Memory Game_
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
+**Memory Game** is a Light & Sound Memory.
 
-Submitted by: **Ahmed Abdullahi**
+Created By: **Ahmed Abdullahi**
 
 Time spent: **6** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/l-s-m-game?path=README.md%3A1%3A0)
-
-## Required Functionality
+## Functionality
 
 The following **required** functionality is complete:
 
@@ -32,13 +30,7 @@ The following **optional** features are implemented:
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
-
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here
 
 Winning game:
 
@@ -47,25 +39,6 @@ Winning game:
 Losing Game:
 
 ![Losing_gmae](https://user-images.githubusercontent.com/60489068/161367961-2ac8a965-4745-42ec-a314-1605a0261f2b.gif)
-
-
-## Reflection Questions
-
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-
-I've used the web to search for some css colors to use for the backgrounds. I've also looked into online readings and videos about how css, java script, and html are used togethere to further understand what I was doing in this project.
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-
-A challenge I encountered was understanding how each part of the project connected together. Understanding how what each language was doing got some use to. I also had a hard time registering the bottoms to function. This lead me to adding more code to try to fix things but it took me a while to be able to register the bottons to change color everytime the player clicks on it. I also encountered issues with activating some of the bottons in the beginnning but I was able to figure it out after some time. Since this was my first encounter with these languages it was definitly a new experience but also a rewarding one, once I was able to get all the component working together.
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-
-Some of questions I have about web developement include but are not limited to: Are there other languages used (or we will use during the SITE program) to enhance websites. Another question is have regarding web development is: Will we learn how to optimize site loading time? How much experience will we gain or expected to gain after completing the program? Also, What are the next steps in to help us become better web devolpers beyond the SITE program? 
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-
-If I had a few more hours to work on this project, I would spend them by implementing extra features like adding a celebratory screen with confetty and sound when the player wins the game. Also adding images that appear everytime the player presses a botton. I would also add a timer. I want to also figure out a way to have the bottons shuffle to make the game much harder.
 
 
 ## License
